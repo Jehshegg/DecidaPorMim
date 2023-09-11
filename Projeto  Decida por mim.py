@@ -1,4 +1,4 @@
-# Projeto 5 - Decida por mim
+
 # Faça uma pergunta para o programa e ele terá que te dar uma resposta
 import random
 import PySimpleGUI as sg
@@ -7,7 +7,7 @@ class DecidaPorMim:
     def __init__(self):
         self.respostas = [
             'Com certeza, você deve fazer isso!',
-            'Não sei, você se sabe',
+            'Não sei, você que sabe',
             'Não faz isso Não!',
             'Acho que tá na hora certa!'
         ]
